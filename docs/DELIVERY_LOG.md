@@ -1,0 +1,1 @@
+Fecha: 20 de noviembre de 2026 (Lima). Lectura Viva, React Native. Distinta de Pocket Tasks, Despensa Clara y Repara Cerca. Inspiración: https://readingagency.org.uk/ y su programa Reading Ahead 2026–27; implementación propia. Expo SDK 57, contrato existente del publicador, MobileLab 1.1.0. Validación pendiente en CI.

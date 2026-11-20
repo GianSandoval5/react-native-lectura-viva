@@ -1,0 +1,6 @@
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+.state.json
+*.log

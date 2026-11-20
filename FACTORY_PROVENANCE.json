@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "owner": "GianSandoval5",
+  "request": {
+    "framework": "react-native",
+    "repo_name": "react-native-lectura-viva",
+    "app_name": "lectura_viva",
+    "project_dir": "projects/lectura-viva",
+    "description": "Biblioteca personal, sesiones y progreso de lectura con React Native y MobileLab SQLite."
+  },
+  "source_sha": "f16936a7486c37bdb216c6f3ac36fee51802cc2e",
+  "run_url": "https://github.com/GianSandoval5/mobile-ai-factory/actions/runs/44797678375",
+  "sdk": {
+    "node": "v22.23.4",
+    "packages": {
+      "expo": "~57.0.33",
+      "expo-build-properties": "~57.0.23",
+      "expo-status-bar": "~57.0.1",
+      "react": "19.2.3",
+      "react-native": "0.86.3",
+      "react-native-safe-area-context": "~5.7.0"
+    }
+  },
+  "tests_passed": 10,
+  "coverage_lines": {
+    "hit": 134,
+    "found": 154
+  },
+  "analysis": "passed",
+  "build": {
+    "kind": "expo-android-bundle",
+    "status": "passed"
+  },
+  "dependency_audit": {
+    "provider": "npm audit",
+    "scope": "production",
+    "vulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 3,
+      "high": 0,
+      "critical": 0,
+      "total": 3
+    }
+  },
+  "source_digest": "fb8afe4c9341fe5cbc7acb6b0248bf1aad1a6d8c0987649545cd41b53e2b400a"
+}

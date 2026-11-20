@@ -1,0 +1,24 @@
+[
+  {
+    "id": "demo-book",
+    "title": "El mapa de las estrellas",
+    "author": "Autora ficticia",
+    "pages": 240,
+    "sessions": [
+      {
+        "id": "demo-session",
+        "pages": 35,
+        "minutes": 20,
+        "at": "2026-11-19T18:00:00Z",
+        "note": "Primer capítulo"
+      }
+    ]
+  },
+  {
+    "id": "demo-two",
+    "title": "Historias del bosque",
+    "author": "Autor ficticio",
+    "pages": 180,
+    "sessions": []
+  }
+]

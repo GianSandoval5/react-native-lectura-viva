@@ -1,0 +1,6 @@
+schema_version: 1
+resources:
+  books:
+    path: /api/books
+    id: id
+    seed: seeds/books.json

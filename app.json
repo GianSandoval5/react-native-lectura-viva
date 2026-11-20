@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Lectura Viva",
+    "slug": "lectura-viva",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocalNetworkUsageDescription": "Conectar a MobileLab local.",
+        "NSAppTransportSecurity": {
+          "NSAllowsLocalNetworking": true
+        }
+      }
+    },
+    "android": {
+      "package": "com.giansandoval.lecturaviva"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          }
+        }
+      ]
+    ]
+  }
+}
